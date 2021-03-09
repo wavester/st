@@ -1,4 +1,4 @@
-# st
+# [st]
 
 My customized fork of st.
 
