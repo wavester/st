@@ -2,7 +2,7 @@
 
 My customized fork of st.
 
-![Screenshot of the ST terminal](screenshot.png)
+![](screenshot.png)
 
 ### List of added patches ### 
 
