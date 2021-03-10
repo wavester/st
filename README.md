@@ -1,4 +1,4 @@
-![](https://st.suckless/st.svg)
+![](https://st.suckless.org/st.svg)
 
 My customized fork of st.
 
